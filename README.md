@@ -1,2 +1,2 @@
 # DSA-Practice
-This repository includes all the solution and the explaination of question which I will be solving.
+This repository includes all the solutions and the explaination of question which I will be solving.
